@@ -5,5 +5,6 @@
 Email: samuelclerod@gmail.com
 
 Equipe: 
-- Jonilson de Sousa Silva
+- Antonio Siqueira de Morais Júnior
 - Cicero Alexandre da Silva
+- Jonilson de Sousa Silva
